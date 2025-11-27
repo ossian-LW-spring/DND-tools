@@ -1,0 +1,5 @@
+{
+  "name": "HexForge",
+  "description": "A hexagon-based map editor for tabletop RPGs. Create terrain, manage regions, roll encounter tables, and track party movement.",
+  "requestFramePermissions": []
+}
